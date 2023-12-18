@@ -40,7 +40,7 @@ Split a string
 }
 \examples{
  x <- "alfa,bravo,charlie,delta"
- str_split_one(x, split=",")
+ str_split_one(x, pattern=",")
  str_split_one(x, pattern = ",", n = 2)
 
 y <- "192.168.0.1"
