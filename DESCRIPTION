@@ -1,5 +1,5 @@
 Package: regexcite2
-Title: Handle strings by regular expressions
+Title: Handle strings with regular expressions
 Version: 0.0.0.0000
 Authors@R: 
     person("Corina", "Duenas", , "corina.bioinformatic@gmail.com", role = c("aut", "cre"),
