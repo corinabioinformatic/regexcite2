@@ -1,6 +1,8 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
+[![R-CMD-check](https://github.com/corinabioinformatic/regexcite2/actions/workflows/R-CMD-check.yaml/badge.svg?branch=main)](https://github.com/corinabioinformatic/regexcite2/actions/workflows/R-CMD-check.yaml)
+
 # regexcite2
 
 <!-- badges: start -->
