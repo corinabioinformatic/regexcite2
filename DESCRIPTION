@@ -4,7 +4,7 @@ Version: 0.0.0.0000
 Authors@R: 
     person("Corina", "Duenas", , "corina.bioinformatic@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-8928-3726"))
-Description: Package with functions to handle strings by regular expressions.
+Description: Package with functions to handle strings by regular expressions. Proof of concept.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
